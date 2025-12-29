@@ -1,0 +1,7 @@
+{
+  "name": "P2L Studio",
+  "description": "Your AI Artist for a Digital Future. A mobile-first AI image generation studio featuring Bangladeshi cultural identity and global cinematic aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
